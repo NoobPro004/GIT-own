@@ -33,3 +33,5 @@ class CommitTreeCommand {
         process.stdout.write(hash);
     }
 }
+
+module.exports = CommitTreeCommand;
